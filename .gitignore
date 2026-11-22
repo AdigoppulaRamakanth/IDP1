@@ -1,0 +1,20 @@
+# Big files - never upload
+iso/
+*.iso
+*.qcow2
+*.img
+*.vhdx
+
+# Secrets - never upload
+*.pfx
+*.pem
+*.key
+*.cer
+*secret*
+*password*
+.env
+
+# Attack output - never upload
+*.kirbi
+*.ccache
+hashes*.txt
