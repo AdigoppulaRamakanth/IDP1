@@ -22,4 +22,5 @@ Host: Fedora + KVM (virt-manager), 16 GB RAM.
 ## Status
 - [x] Host and lab network ready
 - [x] Day 1: Windows Server 2022 template (updated, sysprepped)
-- [ ] Phase 1: Active Directory
+- [x] Day 1: lab network + Windows Server 2022 template (updated, sysprepped)
+- [ ] Day 2: DC01 and domain corp.lab
