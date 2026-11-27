@@ -25,4 +25,5 @@ Host: Fedora + KVM (virt-manager), 16 GB RAM.
 - [x] Day 1: lab network + Windows Server 2022 template (updated, sysprepped)
 - [x] Day 2: DC01 domain controller + domain corp.lab (DNS working)
 - [x] Day 3: OUs, tiered admins, employees, planted weaknesses, auditing
-- [ ] Day 4: CA01 + AD CS (vulnerable templates)
+- [x] Day 4: CA01 + AD CS (ESC1, ESC4, ESC8 planted, auditing on)
+- [ ] Day 5: Entra ID tenant + Cloud Sync
